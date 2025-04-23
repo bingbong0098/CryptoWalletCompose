@@ -1,4 +1,4 @@
-package org.example.project.coin.data.remote.dto
+package org.example.project.slider.data.remote.dto
 
 import kotlinx.serialization.Serializable
 
